@@ -22,7 +22,7 @@ https://github.com/Farahat612/Testmonials-Slider---Pure-CSS/assets/67427124/4cbf
 
 </div>
 
-> Or, you can explore the live demo of this component [here](#).
+> Or, you can explore the live demo of this component [here](https://farahat612.github.io/Testmonials-Slider---Pure-CSS/).
 
 ## Features
 
