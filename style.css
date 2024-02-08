@@ -23,4 +23,17 @@ body {
     overflow: hidden;
 }
 
+.slider {
+    position: relative;
+    width: 400px;
+    height: 350px;
+    background-color: aliceblue;
+    overflow: hidden;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: flex-end;
+    border-radius: 25px;
+}
+
 
