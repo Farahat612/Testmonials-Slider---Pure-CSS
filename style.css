@@ -82,3 +82,14 @@ body {
     transition: left 0.4s ease;
 }
 
+
+
+.contents {
+    height: 100%;
+    padding: 2rem;
+    display: flex;
+    flex: 1;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+}
