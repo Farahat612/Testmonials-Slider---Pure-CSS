@@ -15,10 +15,11 @@ A simple HTML/CSS slider component for showcasing content in a visually appealin
 > Explore the short video demo of this component:
 
 <div align="center">
-    <video controls>
-        <source src="./demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    
+
+https://github.com/Farahat612/Testmonials-Slider---Pure-CSS/assets/67427124/4cbfb070-784f-4f57-be21-81285e2f925c
+
+
 </div>
 
 > Or, you can explore the live demo of this component [here](#).
