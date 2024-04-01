@@ -1,6 +1,6 @@
 # Slider Component
 
-A simple HTML/CSS slider component for showcasing content in a visually appealing manner.
+A simple HTML/CSS slider component for showcasing how to implement a slider in pure `HTML` and `CSS` without using `JavaScript`.
 
 ## Table of Contents
 
